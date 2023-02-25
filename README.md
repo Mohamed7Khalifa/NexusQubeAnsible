@@ -2,7 +2,9 @@
 
 ## Description
 An automation project that uses Ansible playbooks to configure Nexus and SonarQube. It simplifies setup and maintenance of these applications, saves time, and promotes standardization.
-## ssh to private machine
+## Installation
+
+### ssh to private machine
 change the ssh config file
 ```bash
  vi /.ssh/config
